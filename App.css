@@ -1,0 +1,12 @@
+.app{
+  height: 100px;
+  width: 100px;
+  background-color: tomato;
+  flex-direction: row;
+  font-size: 50px;
+  border-radius: 50px;
+  color: white;
+  border:solid tomato 1px;
+  justify-content: center;
+  align-items: center;
+}
